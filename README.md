@@ -1,8 +1,7 @@
-# Titanic-data-analysis
+# Titanic Survival Prediction  
+**With Jupyter Notebook**
 
-# Titanic Survival Prediction
-
-This project demonstrates how to perform exploratory data analysis (EDA) and build machine learning models to predict survival on the Titanic. The dataset used is `titanic.csv`, which contains information about passengers, such as age, gender, class, and survival status.
+This Jupyter Notebook demonstrates how to perform exploratory data analysis (EDA) and build machine learning models to predict survival on the Titanic. The dataset used is `titanic.csv`, which contains information about passengers, such as age, gender, class, and survival status.
 
 ---
 
@@ -21,9 +20,9 @@ Before running the code, ensure you have the following installed:
 - Python 3.x
 - Required Python libraries:
   ```bash
-  pip install numpy pandas seaborn matplotlib scikit-learn
+  pip install numpy pandas seaborn matplotlib scikit-learn jupyter
   ```
-- Jupyter Notebook (optional, for running `.ipynb` files).
+- Jupyter Notebook (to run the `.ipynb` file).
 
 ---
 
@@ -36,21 +35,20 @@ Before running the code, ensure you have the following installed:
    ```
 
 2. **Download the Dataset**  
-   Ensure the dataset `titanic.csv` is in the same directory as the script or notebook.
+   Ensure the dataset `titanic.csv` is in the same directory as the notebook.
+
+3. **Launch Jupyter Notebook**  
+   Start Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+   Open the `.ipynb` file from the Jupyter Notebook interface.
 
 ---
 
 ## **Running the Code**
-1. **Using Jupyter Notebook**  
-   - Open the `.ipynb` file in Jupyter Notebook.
-   - Run each cell sequentially to execute the code.
-
-2. **Using Python Script**  
-   - Save the code in a `.py` file (e.g., `titanic_prediction.py`).
-   - Run the script using:
-     ```bash
-     python titanic_prediction.py
-     ```
+1. Open the `.ipynb` file in Jupyter Notebook.
+2. Run each cell sequentially to execute the code.
 
 ---
 
@@ -175,4 +173,4 @@ If you encounter any issues or have questions, feel free to open an issue in thi
 
 ---
 
-Enjoy exploring the Titanic survival prediction model! 🚀
+Enjoy exploring the Titanic survival prediction model in Jupyter Notebook! 🚀
