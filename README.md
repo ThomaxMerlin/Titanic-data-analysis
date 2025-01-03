@@ -30,8 +30,8 @@ Before running the code, ensure you have the following installed:
 1. **Clone the Repository**  
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
-   cd titanic-survival-prediction
+   git clone https://github.com/your-username/Titanic-data-analysis.git
+   cd Titanic-data-analysis
    ```
 
 2. **Download the Dataset**  
